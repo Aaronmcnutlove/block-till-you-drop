@@ -1,0 +1,28 @@
+# Build files
+build/
+bin/
+obj/
+*.o
+*.obj
+*.out
+*.exe
+*.dll
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Qt / misc IDEs
+.moc/
+*.user
+*.pro.user
+*.qrc.dep
+
+# VSCode
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
